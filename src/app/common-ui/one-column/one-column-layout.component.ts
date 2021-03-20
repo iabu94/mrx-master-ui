@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
     <nb-layout windowMode>
 
       <nb-layout-header fixed>
+        <mrx-header></mrx-header>
       </nb-layout-header>
 
       <nb-sidebar class="menu-sidebar" tag="menu-sidebar" responsive>
