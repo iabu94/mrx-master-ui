@@ -107,13 +107,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "ngx",
+      "mrx",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "ngx",
+      "mrx",
       "kebab-case"
     ],
     "ban": [
